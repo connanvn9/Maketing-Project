@@ -1,3 +1,3 @@
 # Sale
  
-My work is demonstated in Maketing_project.ipynb
+My work is demonstrated in Maketing_project.ipynb
